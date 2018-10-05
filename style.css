@@ -1,0 +1,49 @@
+body
+{
+	font-family : "Arial";
+}
+
+.header {
+	background-color:#a4ca39;
+	color : #ffffff;
+	font-size : 50px;
+	text-align : center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #a4ca39;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #75B541;
+
+}
+
+.column {
+    float: left;
+    width: 100%;
+    padding: 15px;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}
