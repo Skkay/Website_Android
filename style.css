@@ -12,6 +12,7 @@ div {
 	color : #ffffff;
 	font-size : 50px;
 	text-align : center;
+	/*vposition: fixed; */
 }
 
 .footer {
@@ -86,3 +87,33 @@ div {
 #customers td{
     text-align: center;
 }
+p.liste {
+	
+}
+
+ul.app_android {
+    list-style-type: square;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
