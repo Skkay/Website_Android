@@ -1,11 +1,23 @@
 body
 {
 	font-family : "Arial";
-	width: 98%;
+	width: 100%;
+	background-color: #BABABA;
 }
 
 div {
     text-align: justify;
+	padding-right: 10px;
+	
+}
+.row {
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.backgroundTxt {
+	background-color : white;
+    margin: 0px 300px 0px 300px;
+
 }
 
 img {
