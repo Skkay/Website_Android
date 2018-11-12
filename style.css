@@ -3,7 +3,7 @@ body {
 	font-family : "Arial";
 }
 
-ul {
+ul.menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -95,4 +95,13 @@ div {
 
 #customers td{
     text-align: center;
+}
+p.liste {
+	font-size: 20px;
+	color:#8fb22e;
+	font-weight: bold;
+}
+
+ul.app_android {
+    list-style-type: square;
 }
